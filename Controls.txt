@@ -1,0 +1,9 @@
+A button = "!a"--
+B button = "!b"--
+X button = "!x"--
+Y button = "!y"--
+
+Walk left = "!left"
+Walk right = "!right"
+Walk up = !up"
+Walk down = "!down"
